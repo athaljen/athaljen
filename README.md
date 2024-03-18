@@ -9,15 +9,11 @@
 
 - 🔭 I’m currently working on [Test](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#github-actions-)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **JS/TS/React/Java/C**
 
-- 👯 I’m looking to collaborate on [test1](hkjh)
+- 👨‍💻 All of my projects are available at [https//:google.com](https://github.com/athaljen)
 
-- 🤝 I’m looking for help with [hjkhkj](jhjhkh)
-
-- 👨‍💻 All of my projects are available at [https//:google.com](https//:google.com)
-
-- 💬 Ask me about **React-Native, React, Java-script, C, Type-script.**
+- 💬 Ask me about **React-Native, React, Java-script, Type-script, C.**
 
 - 📫 How to reach me **athaljen@gmail.com**
 
