@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JS/TS/React/Java/C**
 
-- 👨‍💻 All of my projects are available at [https//:google.com](https://github.com/athaljen)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/athaljen)
 
 - 💬 Ask me about **React-Native, React, Java-script, Type-script, C.**
 
