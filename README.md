@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/athaljen" target="blank"><img src="https://img.shields.io/twitter/follow/athaljen?logo=twitter&style=for-the-badge" alt="athaljen" /></a> </p>
 
-- 🔭 I’m currently working on [Test](https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#github-actions-)
+- 🔭 I’m currently working at [Silversky](https://silverskytechnology.com/)
 
 - 🌱 I’m currently learning **JS/TS/React/Java/C**
 
