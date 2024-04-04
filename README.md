@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/athaljen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athaljen" height="30" width="40" /></a>
-<a href="https://fb.com/athaljen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athaljen" height="30" width="40" /></a>
-<a href="https://instagram.com/athaljen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="athaljen" height="30" width="40" /></a>
+<a href="https://x.com/athaljen?t=ZQUzSTWOBafwsCPWT8helQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athaljen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100076753834083&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="athaljen" height="30" width="40" /></a>
+<a href="https://www.instagram.com/athal_jen?igsh=MXBjYmhwYjV6b20yNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="athaljen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
